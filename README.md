@@ -4,12 +4,13 @@
 ## Decrição
 Gerador de relatórios de Vendas pela IA do **Gemini** conforme a necessidade do usuário. A IA gera os relatórios e posteriormente o usuário pode fazer requisições para análise do relatório gerado, auxiliando o usuário nas tomadas de decições.<br><br> 
 ## Relatórios
-Você pode pedir para IA gerar relatórios simples mas também pode pedir para gerar alguns relatóris 
+Você pode pedir para IA gerar relatórios e no chat pedir as alterações, para conseguir a informação que você precisa
 
 ### Algumas Ideias de Relatórios
 
 <img src="/img/relatorio1.jpg">
 <img src="/img/analise1.jpg">
+<img src="/img/analise2.jpg">
 <img src="/img/relatorio2.jpg">
 <img src="/img/relatorio3.jpg">
 <img src="/img/relatorio4.jpg">
