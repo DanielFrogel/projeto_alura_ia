@@ -7,6 +7,9 @@ Gerador de relatórios de Vendas pela IA do **Gemini** conforme a necessidade do
 
 Obs: Não foi possivél o upload de arquivos em .csv para o modelo por isso tive que usar uma base de dados menor.<br>
 Obs 2: Utilizado uma base com dados fictícia para os testes<br><br>
-Obs 3: Relatórios gerados em Markdown<br><br>
+Obs 3: Relatórios gerados em Markdown<br><br><br>
+
+
+[Vota lá:](https://discord.com/channels/1228404913705451612/1228406162618060913/1238468352545132574)<br><br>
 
 [Meu Linkedin](https://www.linkedin.com/in/daniel-frogel-9b266029a/)
