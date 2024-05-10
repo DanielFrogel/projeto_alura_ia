@@ -1,0 +1,83 @@
+CODIGO;NOME;ENDERECO;CIDADE;ESTADO
+000155;Maria Silva;Rua das Flores, 22;Belo Horizonte;Minas Gerais
+000029;João Souza;Avenida Brasil, 1550;Rio de Janeiro;Rio de Janeiro
+000075;Ana Costa;Rua da Praia, 33;Florianópolis;Santa Catarina
+000087;Marcos Oliveira;Rua da Liberdade, 77;São Paulo;São Paulo
+000076;Aline Santos;Travessa da Paz, 12;Curitiba;Paraná
+000078;Fernando Alves;Avenida Paulista, 2000;São Paulo;São Paulo
+000080;Adriana Pereira;Rua do Comércio, 45;Salvador;Bahia
+000081;Rafael Rodrigues;Rua das Palmeiras, 99;Manaus;Amazonas
+000082;Juliana Castro;Avenida Atlântica, 100;Rio de Janeiro;Rio de Janeiro
+000083;Bruno Correia;Rua do Sol, 18;Fortaleza;Ceará
+000084;Camila Ferreira;Rua da Lua, 25;Recife;Pernambuco
+000085;André Lima;Avenida Central, 30;Goiânia;Goiás
+000086;Luciana Gomes;Rua da Alegria, 70;Porto Alegre;Rio Grande do Sul
+000089;Daniel Carvalho;Rua do Campo, 55;Cuiabá;Mato Grosso
+000090;Vanessa Martins;Rua da Justiça, 88;Vitória;Espírito Santo
+000091;Eduardo Rocha;Rua da Fé, 101;Belém;Pará
+000094;Mariana Barbosa;Rua da Esperança, 123;Maceió;Alagoas
+000105;Felipe Almeida;Rua da Saúde, 145;João Pessoa;Paraíba
+000106;Letícia Melo;Rua da Harmonia, 167;Natal;Rio Grande do Norte
+000095;Rodrigo Ribeiro;Rua da Vitória, 189;Teresina;Piauí
+000109;Bruna Azevedo;Rua da Amizade, 211;Aracaju;Sergipe
+000113;Lucas Barros;Rua da Paz, 233;Palmas;Tocantins
+000107;Isabela Dias;Rua do Progresso, 255;Campo Grande;Mato Grosso do Sul
+000112;Guilherme Lopes;Rua da Sorte, 277;Macapá;Amapá
+000116;Larissa Soares;Rua da Liberdade, 299;Boa Vista;Roraima
+000103;Gabriel Santos;Avenida Brasil, 321;Porto Velho;Rondônia
+000104;Amanda Costa;Rua das Flores, 343;Rio Branco;Acre
+000117;Vinicius Oliveira;Travessa da Paz, 365;Florianópolis;Santa Catarina
+000115;Beatriz Pereira;Rua da Praia, 387;Salvador;Bahia
+000119;Gustavo Rodrigues;Avenida Paulista, 409;São Paulo;São Paulo
+000137;Evelyn Alves;Rua do Comércio, 431;Belo Horizonte;Minas Gerais
+000120;Leonardo Castro;Rua das Palmeiras, 453;Manaus;Amazonas
+000156;Eduarda Correia;Avenida Atlântica, 475;Rio de Janeiro;Rio de Janeiro
+000123;Henrique Ferreira;Rua do Sol, 497;Fortaleza;Ceará
+000124;Isabelle Lima;Rua da Lua, 519;Recife;Pernambuco
+000125;Benjamin Gomes;Avenida Central, 541;Goiânia;Goiás
+000127;Cecília Carvalho;Rua do Campo, 563;Cuiabá;Mato Grosso
+000129;Murilo Martins;Rua da Justiça, 585;Vitória;Espírito Santo
+000128;Samuel Rocha;Rua da Fé, 607;Belém;Pará
+000133;Heloísa Barbosa;Rua da Esperança, 629;Maceió;Alagoas
+000135;Arthur Almeida;Rua da Saúde, 651;João Pessoa;Paraíba
+000157;Lorena Melo;Rua da Harmonia, 673;Natal;Rio Grande do Norte
+000158;Heitor Ribeiro;Rua da Vitória, 695;Teresina;Piauí
+000159;Manuela Azevedo;Rua da Amizade, 717;Aracaju;Sergipe
+000160;Davi Barros;Rua da Paz, 739;Palmas;Tocantins
+000162;Melissa Dias;Rua do Progresso, 761;Campo Grande;Mato Grosso do Sul
+000163;Thales Lopes;Rua da Sorte, 783;Macapá;Amapá
+000168;Sophia Soares;Rua da Liberdade, 805;Boa Vista;Roraima
+000169;Pietro Santos;Avenida Brasil, 827;Porto Velho;Rondônia
+000172;Ayla Costa;Rua das Flores, 849;Rio Branco;Acre
+000170;Bernardo Oliveira;Travessa da Paz, 871;Florianópolis;Santa Catarina
+000173;Samuel Pereira;Rua da Praia, 893;Salvador;Bahia
+000176;Enzo Rodrigues;Avenida Paulista, 915;São Paulo;São Paulo
+000177;Valentina Alves;Rua do Comércio, 937;Belo Horizonte;Minas Gerais
+000178;Miguel Castro;Rua das Palmeiras, 959;Manaus;Amazonas
+000179;Davi Lucca Correia;Avenida Atlântica, 981;Rio de Janeiro;Rio de Janeiro
+000180;Isabella Fernandes;Rua da Liberdade, 1003;Curitiba;Paraná
+000182;Pedro Henrique Souza;Avenida Brasil, 1025;Rio de Janeiro;Rio de Janeiro
+000186;Esther Moraes;Rua das Flores, 1047;Belo Horizonte;Minas Gerais
+000185;Benício Gomes;Rua da Praia, 1069;Florianópolis;Santa Catarina
+000197;Marina Santos;Avenida Paulista, 1091;São Paulo;São Paulo
+000199;Vicente Rocha;Rua do Comércio, 1113;Salvador;Bahia
+000200;Cecília Alves;Rua das Palmeiras, 1135;Manaus;Amazonas
+000201;Otávio Castro;Avenida Atlântica, 1157;Rio de Janeiro;Rio de Janeiro
+000216;Lara Correia;Rua do Sol, 1179;Fortaleza;Ceará
+000225;Gael Lima;Rua da Lua, 1201;Recife;Pernambuco
+000247;Maria Clara Gomes;Avenida Central, 1223;Goiânia;Goiás
+000252;Maitê Carvalho;Rua do Campo, 1245;Cuiabá;Mato Grosso
+000262;Anthony Martins;Rua da Justiça, 1267;Vitória;Espírito Santo
+000263;Ryan Rocha;Rua da Fé, 1289;Belém;Pará
+000279;Melissa Barbosa;Rua da Esperança, 1311;Maceió;Alagoas
+005815;Emanuel Almeida;Rua da Saúde, 1333;João Pessoa;Paraíba
+005816;Alice Melo;Rua da Harmonia, 1355;Natal;Rio Grande do Norte
+005832;Rafael Ribeiro;Rua da Vitória, 1377;Teresina;Piauí
+005833;Mirella Azevedo;Rua da Amizade, 1399;Aracaju;Sergipe
+005835;Levi Barros;Rua da Paz, 1421;Palmas;Tocantins
+005852;Luiza Dias;Rua do Progresso, 1443;Campo Grande;Mato Grosso do Sul
+005859;Enrico Lopes;Rua da Sorte, 1465;Macapá;Amapá
+005869;Ayla Soares;Rua da Liberdade, 1487;Boa Vista;Roraima
+005874;Bento Santos;Avenida Brasil, 1509;Porto Velho;Rondônia
+005914;Aurora Costa;Rua das Flores, 1531;Rio Branco;Acre
+005925;Caleb Oliveira;Travessa da Paz, 1553;Florianópolis;Santa Catarina
